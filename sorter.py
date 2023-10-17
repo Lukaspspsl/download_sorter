@@ -1,8 +1,8 @@
 import os
 from datetime import datetime
 
-DOWNLOAD_DIR = r"C:/Users/lukas/Downloads"
-LOG_FILE = r"C:/Users/lukas/Downloads/Documents/log.txt"
+DOWNLOAD_DIR = r"YOUR_DOWNLOAD_FOLDER"
+LOG_FILE = r"LOG_FOLDER"
 RULES = {
     "Documents": [".pdf", ".docx", ".txt"],
     "Images": [".jpg", ".png", ".gif"],
