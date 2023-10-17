@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env
+
+lib/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Log files
+*.log
+
+# IDEs
+.idea/
+.vscode/
+
+# Database
+*.db
+
+# Build and packaging directories
+build/
+dist/

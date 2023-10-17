@@ -1,0 +1,1 @@
+{'filename': 'drahelyzeI.docx', 'file_type': '.docx', 'new_location': 'C:/Users/lukas/Downloads\\Documents\\drahelyzeI.docx', 'timestamp': '2023-10-17 20:47:32'}
